@@ -1,0 +1,27 @@
+﻿  body {background-color: blue;}
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+
+    h3 {
+      color: green;
+    }
+
+    li {
+      color: green;
+    }
+    p {
+      color: green;
+    }
+    body {
+      max-width: 2000px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: rgb(129, 129, 192);
+      border-radius: 5px;
+      border: 2px solid black;
+    }
+  
+  
